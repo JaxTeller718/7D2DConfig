@@ -47,5 +47,22 @@
 			</Description>
 		</Server>
 
+		<Server Name="Guppyville Private" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>73.32.182.89</Address>
+			<Port>26950</Port>
+			<Type>Passworded</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://7daystodie.com/forums/showthread.php?49210-Guppy-Server</WebSite>
+			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/GUPPYClient/archive/master.zip</Download>
+			</Downloads>
+		    <Description>
+			Prefabs and Icons for Guppyville
+			</Description>
+		</Server>		
 	</ServerGroup>
 </Servers>
