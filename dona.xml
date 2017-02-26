@@ -29,7 +29,7 @@
 	
 		
 		<!-- Private Server -->
-		<Server Name="Jax and Shorty Private Test Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="DONA Starvation SDX" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.162</Address>
 			<Port>26347</Port>
 			<Type>Passworded</Type>
@@ -38,12 +38,13 @@
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
-			<ReleaseNotes>http://7d2dforumfanatics.enjin.com/forum/m/37886357/viewthread/28174921-forum-fanatics-walking-zeds-season-1-discussion-info-thread</ReleaseNotes>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
+			 <DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/TESTClient/archive/master.zip</Download>
+			<Download>https://github.com/JaxTeller718/DONAStarvation/archive/master.zip</Download>
 			</Downloads>
 		    <Description>
-			Private test server to test new mods and servers
+			Starvation comes to DONA! 
 			</Description>
 		</Server>
 
