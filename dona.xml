@@ -66,9 +66,9 @@
 			</Description>
 		</Server>
 		
-		<Server Name="DONA Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>75.127.5.186</Address>
-			<Port>26430</Port>
+		<Server Name="DONA Starvation Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
 			<Type>Passworded</Type>
 			<Version>Latest</Version>
 			<EAC>Disabled</EAC>
@@ -77,7 +77,7 @@
 			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
 			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/TESTClient/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/StarvationTestServer/archive/master.zip</Download>
 			</Downloads>
 		    <Description>
 			Private server for testing new mods
