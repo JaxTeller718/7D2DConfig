@@ -83,5 +83,23 @@
 			Private server for testing new mods
 			</Description>
 		</Server>
+		
+		<Server Name="Jax Personal Mod Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.104.34</Address>
+			<Port>17335</Port>
+			<Type>Passworded</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
+			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/JAXClient/archive/master.zip</Download>
+			</Downloads>
+		    <Description>
+			Private server for testing new mods
+			</Description>
+		</Server>
 	</ServerGroup>
 </Servers>
