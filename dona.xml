@@ -76,6 +76,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
 			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
+			 <DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/StarvationTestServer/archive/master.zip</Download>
 			</Downloads>
@@ -93,7 +94,8 @@
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
-			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
+			<ReleaseNotes>http://75.127.5.186:26439/static/index.html/</ReleaseNotes>
+			 <DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/JAXClient/archive/master.zip</Download>
 			</Downloads>
