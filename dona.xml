@@ -66,26 +66,9 @@
 			</Description>
 		</Server>
 		
-		<Server Name="DONA Starvation Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.50</Address>
-			<Port>12001</Port>
-			<Type>Passworded</Type>
-			<Version>Latest</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
-			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
-			 <DownloadMode>Clone</DownloadMode>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/StarvationTestServer/archive/master.zip</Download>
-			</Downloads>
-		    <Description>
-			Private server for testing new mods
-			</Description>
-		</Server>
+
 		
-		<Server Name="Jax Personal Mod Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="True Survival SDX Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.104.34</Address>
 			<Port>17335</Port>
 			<Type>Passworded</Type>
@@ -100,7 +83,26 @@
 				<Download>https://github.com/JaxTeller718/TS718Client/archive/master.zip</Download>
 			</Downloads>
 		    <Description>
-			Private server for testing new mods
+			Private server for testing True Survival SDX
+			</Description>
+		</Server>
+		
+		<Server Name="Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
+			<Type>Passworded</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
+			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
+			 <DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/JAXSHORTYClient/archive/master.zip</Download>
+			</Downloads>
+		    <Description>
+			Private server
 			</Description>
 		</Server>
 	</ServerGroup>
