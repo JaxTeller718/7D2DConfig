@@ -7,7 +7,7 @@
 
 		<Server Name="Dawn of the New Apocalypse True Survival SDX PVE Server" Logo="https://qph.is.quoracdn.net/main-qimg-21a8ef7a4a6cce3b33082bf0165bdbb2?convert_to_webp=true">				<!-- Display name of the server, also used for Folder path -->
 			<Address>144.48.106.162</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Port>26437</Port>										<!-- Port number of Server, this value gets updated in the Registry for the Port -->
+			<Port>26347</Port>										<!-- Port number of Server, this value gets updated in the Registry for the Port -->
 			<DownloadMode>Clone</DownloadMode>
 			<Type>Whitelist</Type>									<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Version>Latest</Version>  								<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
