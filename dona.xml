@@ -31,45 +31,6 @@
 		<!-- Private Server -->
 
 
-		<Server Name="Guppyville Private" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>73.32.182.89</Address>
-			<Port>26950</Port>
-			<Type>Passworded</Type>
-			<Version>Latest</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://7daystodie.com/forums/showthread.php?49210-Guppy-Server</WebSite>
-			<ReleaseNotes>http://map.guppycur.com/</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/GUPPYClient/archive/master.zip</Download>
-			</Downloads>
-		    <Description>
-			Prefabs and Icons for Guppyville
-			</Description>
-		</Server>
-		
-
-		
-		<Server Name="True Survival SDX Testing Only" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.104.34</Address>
-			<Port>17335</Port>
-			 <DownloadMode>Clone</DownloadMode>
-			<Type>Passworded</Type>
-			<Version>Latest</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
-			<ReleaseNotes>http://75.127.5.186:26439/static/index.html/</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/TS718Client/archive/master.zip</Download>
-			</Downloads>
-		    <Description>
-			Private server for testing True Survival SDX
-			</Description>
-		</Server>
-		
 		<Server Name="Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
