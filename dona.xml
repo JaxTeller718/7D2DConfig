@@ -34,7 +34,6 @@
 		<Server Name="Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
-			 <DownloadMode>Clone</DownloadMode>
 			<Type>Passworded</Type>
 			<Version>Latest</Version>
 			<EAC>Disabled</EAC>
@@ -43,7 +42,7 @@
 			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
 			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/WOTWClient/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/PRIVATEClient/archive/master.zip</Download>
 			</Downloads>
 		    <Description>
 			Private server
