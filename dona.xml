@@ -5,9 +5,9 @@
 
 		<!-- Main Server -->
 
-		<Server Name="A16 Experimental" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>45.126.208.66</Address>
-			<Port>22715</Port>
+		<Server Name="A16 Experimental Vanilla" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
 			<Type>Whitelist</Type>
 			<Version>Latest</Version>
 			<EAC>Disabled</EAC>
@@ -19,7 +19,7 @@
 				<Download>https://github.com/JaxTeller718/Experimental/archive/master.zip</Download>
 			</Downloads>
 		    <Description>
-			Private A16 Experimental server with modded UI
+			Private A16 Experimental Vanilla server
 			</Description>
 		</Server>
 	
@@ -28,8 +28,8 @@
 
 
 		<Server Name="Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.50</Address>
-			<Port>12001</Port>
+			<Address>45.126.208.66</Address>
+			<Port>22715</Port>
 			<Type>Private</Type>
 			<Version>Latest</Version>
 			<EAC>Disabled</EAC>
