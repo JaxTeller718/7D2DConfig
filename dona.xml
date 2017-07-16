@@ -5,7 +5,7 @@
 
 		<!-- Main Server -->
 
-		<Server Name="A16 Experimental Vanilla" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="A16 Stable Vanilla" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
