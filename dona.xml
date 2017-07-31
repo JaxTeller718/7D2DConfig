@@ -27,7 +27,7 @@
 		<!-- Private Server -->
 
 
-		<Server Name="Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Private Mod Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
@@ -45,6 +45,24 @@
 			</Description>
 		</Server>
 		
+		
+			<Server Name="Ravenhurst Test" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>45.126.208.66</Address>
+			<Port>22715</Port>
+			<Type>Private</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
+			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/RAVENHURSTClient/archive/master.zip</Download>
+			</Downloads>
+		    <Description>
+			Private server
+			</Description>
+		</Server>	
 		
 
 
