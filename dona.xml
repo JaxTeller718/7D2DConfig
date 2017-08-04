@@ -5,7 +5,7 @@
 
 		<!-- Main Server -->
 
-		<!-- 	<Server Name="Ravenhearst" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -22,7 +22,7 @@
 			Private A16 Vanilla server
 			</Description>
 		</Server>
-	 -->
+	 
 		
 		<!-- Private Server -->
 
