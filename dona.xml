@@ -5,7 +5,7 @@
 
 		<!-- Main Server -->
 
-		<Server Name="A16 Stable Vanilla" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<!-- 	<Server Name="A16 Stable Vanilla" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -22,7 +22,7 @@
 			Private A16 Vanilla server
 			</Description>
 		</Server>
-	
+	 -->
 		
 		<!-- Private Server -->
 
@@ -46,23 +46,7 @@
 		</Server>
 		
 		
-			<Server Name="Ravenhurst Test" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>45.126.208.66</Address>
-			<Port>22715</Port>
-			<Type>Private</Type>
-			<Version>Latest</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
-			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/RAVENHURSTClient/archive/master.zip</Download>
-			</Downloads>
-		    <Description>
-			Private server
-			</Description>
-		</Server>	
+
 		
 
 
