@@ -17,6 +17,8 @@
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/RAVENHURSTClient/archive/master.zip</Download>
+                                <Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.2/ZombieTexture/ZombieTextureOverhaul.zip</Download>
+
 			</Downloads>
 		    <Description>
 			Private A16 Vanilla server
