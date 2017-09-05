@@ -13,10 +13,11 @@
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/RAVENHURSTClient/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 
 			</Downloads>
 		    <Description>
@@ -36,13 +37,15 @@
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/PRIVATEClient/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
 			</Downloads>
 		    <Description>
-			Private server
+			Private server for testing out mod changes
 			</Description>
 		</Server>
 		
