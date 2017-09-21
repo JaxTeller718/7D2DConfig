@@ -5,7 +5,7 @@
 
 		<!-- Main Server -->
 
-		 	<Server Name="Ravenhearst Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -16,12 +16,12 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RAVENHURSTClient/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/RAVENHEARSTClient/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 
 			</Downloads>
 		    <Description>
-			Private A16 Vanilla server
+			Private A16 Modded files for our server. If you would like to play with us please visit our website and fill out an application
 			</Description>
 		</Server>
 	 
@@ -29,7 +29,7 @@
 		<!-- Private Server -->
 
 
-		<Server Name="Private Mod Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Private Admin Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
@@ -45,12 +45,55 @@
 
 			</Downloads>
 		    <Description>
-			Private server for testing out mod changes
+			Admin Only server for testing out mod changes and additions. This isnt meant for public consumption so use at your own risk it may break your game.
 			</Description>
 		</Server>
 		
 		
+		<!-- SP 7 Days Version -->
 
+		 	<Server Name="Ravenhearst SP 7 Days Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
+			<Type>Whitelist</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/RAVENHEARSTSP7DAYSClient/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Single Player Version of Ravenhearst with the normal 7 Days Blood Moon spawn.
+			</Description>
+		</Server>
+		
+		
+		<!-- SP 21 Days Version -->
+
+		 	<Server Name="Ravenhearst SP 21 Days Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
+			<Type>Whitelist</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/RAVENHEARSTSP21DAYSClient/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Single Player Version of Ravenhearst with modified Blood Moon Hordes that occur every 21 Days and increased wandering horde numbers.
+			</Description>
+		</Server>
 		
 
 
