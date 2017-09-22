@@ -5,7 +5,7 @@
 
 		<!-- Main Server -->
 
-		 	<Server Name="Ravenhearst Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst Whitelist Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -21,7 +21,7 @@
 
 			</Downloads>
 		    <Description>
-			Private A16 Modded files for our server. If you would like to play with us please visit our website and fill out an application
+			Private A16 Modded files for our server members. If you would like to play with us please visit our website and fill out an application
 			</Description>
 		</Server>
 	 
