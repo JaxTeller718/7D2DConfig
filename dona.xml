@@ -52,7 +52,7 @@
 		
 		<!-- SP 7 Days Version -->
 
-		 	<Server Name="Ravenhearst SP 7 Days Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst SP Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -72,28 +72,7 @@
 			</Description>
 		</Server>
 		
-		
-		<!-- SP 21 Days Version -->
 
-		 	<Server Name="Ravenhearst SP 21 Days Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.50</Address>
-			<Port>12001</Port>
-			<Type>Whitelist</Type>
-			<Version>Latest</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/RAVENHEARSTSP21DAYSClient/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-
-			</Downloads>
-		    <Description>
-			Single Player Version of Ravenhearst with modified Blood Moon Hordes that occur every 21 Days and increased wandering horde numbers.
-			</Description>
-		</Server>
 		
 
 
