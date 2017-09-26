@@ -26,28 +26,7 @@
 		</Server>
 	 
 		
-		<!-- Private Server -->
 
-
-		<Server Name="Private Admin Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>45.126.208.66</Address>
-			<Port>22715</Port>
-			<Type>Private</Type>
-			<Version>Latest</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/PRIVATEClient/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-
-			</Downloads>
-		    <Description>
-			Admin Only server for testing out mod changes and additions. This isnt meant for public consumption so use at your own risk it may break your game.
-			</Description>
-		</Server>
 		
 		
 		<!-- SP 7 Days Version -->
@@ -73,7 +52,28 @@
 		</Server>
 		
 
-		
+			<!-- Private Server -->
+
+
+		<Server Name="Private Admin SDX Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>45.126.208.66</Address>
+			<Port>22715</Port>
+			<Type>Private</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/SDXTest/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Admin Only server for testing out mod changes and additions. This isnt meant for public consumption so use at your own risk it may break your game.
+			</Description>
+		</Server>	
 
 
 	</ServerGroup>
