@@ -55,7 +55,7 @@
 			<!-- Private Server -->
 
 
-		<Server Name="Private Admin SDX Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst 16.4 SDX Testing" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
@@ -66,11 +66,11 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/SDXPrivate/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/SDXExperimentalTesting/archive/master.zip</Download>
 
 			</Downloads>
 		    <Description>
-			Admin Only server for testing out mod changes and additions. This isnt meant for public consumption so use at your own risk it may break your game.
+			Testing Copy for the SDX version of Ravenhearst meant for Experimental 16.4. Still tweaking and fixing so use at your own risk. Release Version for Stable 16.4 will be coming soon!
 			</Description>
 		</Server>	
 
