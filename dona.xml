@@ -32,9 +32,9 @@
 		<!-- SP 7 Days Version -->
 
 		 	<Server Name="Ravenhearst SP Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.50</Address>
-			<Port>12001</Port>
-			<Type>Whitelist</Type>
+			<Address></Address>
+			<Port></Port>
+			<Type></Type>
 			<Version>Latest</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
