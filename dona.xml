@@ -65,6 +65,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
+		        <DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/SDXTestBuild/archive/master.zip</Download>
 
