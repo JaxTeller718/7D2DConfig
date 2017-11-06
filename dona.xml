@@ -30,7 +30,7 @@
 			<!-- Private Server -->
 
 
-		<Server Name="Ravenhearst 16.4 SDX Testing Only Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst 16.4 SDX Testing Final Build" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
@@ -42,7 +42,8 @@
 			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
 		        <DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/SDXTestBuild/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/SDXFinalTestBuild/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 
 			</Downloads>
 		    <Description>
