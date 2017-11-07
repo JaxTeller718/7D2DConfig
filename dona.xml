@@ -4,8 +4,6 @@
 	<ServerGroup Name="Dawn of the New Apocalypse" Logo="https://raw.githubusercontent.com/Official7D2DForumFanatics/7D2DFFLauncher/master/7dtdNewLogo.jpg">
 
 		
-		<!-- Main Server -->
-
 		 	<Server Name="Ravenhearst SDX Whitelist Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
@@ -70,6 +68,29 @@
 			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days. This mod would not have been possible without the true innovators of 7 Days like Valmar, dwallorde, xyth, Clockwork Orange and coutless others who have both taught me and influenced me throughout my modding. Some of the icons and ideas have been tweaked from various other mods. All credit goes to the respective modders.
 			</Description>
 		</Server>
+		
+		<!-- SP 7 Days Clean Version -->
+
+		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address></Address>
+			<Port></Port>
+			<Type></Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<ReleaseNotes>http://dawnofthenewapocalypse.enjin.com/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/RavenhearstStreamer/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Streamer Friendly Version of Ravenhearst 7 Days Blood Moon spawn and removed nude zombies.
+			</Description>
+		</Server>
+		
 
 
 	</ServerGroup>
