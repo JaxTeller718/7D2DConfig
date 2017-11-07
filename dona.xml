@@ -4,7 +4,7 @@
 	<ServerGroup Name="Dawn of the New Apocalypse" Logo="https://raw.githubusercontent.com/Official7D2DForumFanatics/7D2DFFLauncher/master/7dtdNewLogo.jpg">
 
 		
-		 	<Server Name="Ravenhearst SDX Whitelist Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst SDX Whitelist Player Files For The Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
