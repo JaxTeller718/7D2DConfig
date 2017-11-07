@@ -26,6 +26,51 @@
 			</Description>
 		</Server>
 
+		
+		<!-- SP 7 Days Version -->
+
+		 	<Server Name="Ravenhearst SDX Single Player Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address></Address>
+			<Port></Port>
+			<Type></Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<ReleaseNotes>http://dawnofthenewapocalypse.enjin.com/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Ravenhearst7DayEdition/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Single Player Version of Ravenhearst with the normal 7 Days Blood Moon spawn. This mod would not have been possible without the true innovators of 7 Days like Valmar, dwallorde, xyth, Clockwork Orange and coutless others who have both taught me and influenced me throughout my modding. Some of the icons and ideas have been tweaked from various other mods. All credit goes to the respective modders.
+			</Description>
+		</Server>
+		
+		<!-- SP 21 Days Version -->
+
+		 	<Server Name="Ravenhearst SDX SP 21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address></Address>
+			<Port></Port>
+			<Type></Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<ReleaseNotes>http://dawnofthenewapocalypse.enjin.com/</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/RavenhearstWhitelist/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days. This mod would not have been possible without the true innovators of 7 Days like Valmar, dwallorde, xyth, Clockwork Orange and coutless others who have both taught me and influenced me throughout my modding. Some of the icons and ideas have been tweaked from various other mods. All credit goes to the respective modders.
+			</Description>
+		</Server>
+
 
 	</ServerGroup>
 </Servers>
