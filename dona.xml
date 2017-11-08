@@ -13,10 +13,12 @@
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+		        <DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/RavenhearstWhitelist/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip
+</Download>
 
 			</Downloads>
 		    <Description>
@@ -36,10 +38,12 @@
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+		        <DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/Ravenhearst7DayEdition/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip
+</Download>
 
 			</Downloads>
 		    <Description>
@@ -58,10 +62,12 @@
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+		        <DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/Ravenhearst21DayEdition/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip
+</Download>
 
 			</Downloads>
 		    <Description>
@@ -80,10 +86,12 @@
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+		        <DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/RavenhearstStreamer/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/blob/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip
+</Download>
 
 			</Downloads>
 		    <Description>
