@@ -4,7 +4,7 @@
 	<ServerGroup Name="Dawn of the New Apocalypse" Logo="https://raw.githubusercontent.com/Official7D2DForumFanatics/7D2DFFLauncher/master/7dtdNewLogo.jpg">
 
 		
-		 	<Server Name="Ravenhearst SDX Whitelist Player Files For The Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst SDX Whitelist Player Files For The Server" Logo="https://i.imgur.com/xpxu7u4.png">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -27,7 +27,7 @@
 		
 		<!-- SP 7 Days Version -->
 
-		 	<Server Name="Ravenhearst SDX Single Player Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst SDX Single Player Edition" Logo="https://i.imgur.com/xpxu7u4.png">
 			<Address></Address>
 			<Port></Port>
 			<Type></Type>
@@ -49,7 +49,7 @@
 		
 		<!-- SP 21 Days Version -->
 
-		 	<Server Name="Ravenhearst SDX SP 21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst SDX SP 21 Day Horde Edition" Logo="https://i.imgur.com/xpxu7u4.png">
 			<Address></Address>
 			<Port></Port>
 			<Type></Type>
@@ -71,7 +71,7 @@
 		
 		<!-- SP 7 Days Clean Version -->
 
-		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="https://i.imgur.com/xpxu7u4.png">
 			<Address></Address>
 			<Port></Port>
 			<Type></Type>
