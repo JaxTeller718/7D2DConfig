@@ -71,7 +71,7 @@
 		
 		<!-- SP 7 Days Clean Version -->
 
-		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="https://i.imgur.com/xpxu7u4.png">
+		 	<Server Name="Ravenhearst SDX Streamer Friendly Clean Edition" Logo="https://i.imgur.com/xpxu7u4.png">
 			<Address></Address>
 			<Port></Port>
 			<Type></Type>
@@ -87,7 +87,7 @@
 
 			</Downloads>
 		    <Description>
-			Streamer Friendly Version of Ravenhearst 7 Days Blood Moon spawn and removed nude zombies.
+			Streamer Friendly Version of Ravenhearst 7 Days Blood Moon spawn. Profanity from Bandits and Traders REMOVED as well as all Nude Zombies REMOVED.
 			</Description>
 		</Server>
 		
