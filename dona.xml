@@ -6,7 +6,7 @@
 		<!-- Main Version -->
 
 		 	<Server Name="Ravenhearst SDX Single Player" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -28,7 +28,7 @@
 		<!-- Main Version No Weather -->
 
 		 	<Server Name="Ravenhearst SDX SP Weather Disabled" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -51,7 +51,7 @@
 		<!-- SP 21 Days Version -->
 
 		 	<Server Name="Ravenhearst SDX SP 21 Day Blood Moons" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -76,7 +76,7 @@
 		<!-- SP 21 Days Weather Disabled Version -->
 
 		 	<Server Name="Ravenhearst SDX SP 21 Day Blood Moons Weather Disabled" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -101,7 +101,7 @@
 		<!-- SP Main Version Streamer Clean -->
 
 		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -125,7 +125,7 @@
 		<!-- SP Main Version Streamer Clean 21 Day Blood Moons -->
 
 		 	<Server Name="Ravenhearst SDX Streamer Edition 21 Day Blood Moons" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -156,7 +156,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -187,7 +187,7 @@
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v1.07</Version>
+			<Version>v1.08</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
