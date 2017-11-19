@@ -6,7 +6,7 @@
 		<!-- Main Version -->
 
 		 	<Server Name="Ravenhearst SDX Single Player" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -28,7 +28,7 @@
 		<!-- Main Version No Weather -->
 
 		 	<Server Name="Ravenhearst SDX SP Weather Disabled" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -51,7 +51,7 @@
 		<!-- SP 21 Days Version -->
 
 		 	<Server Name="Ravenhearst SDX SP 21 Day Blood Moons" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -76,7 +76,7 @@
 		<!-- SP 21 Days Weather Disabled Version -->
 
 		 	<Server Name="Ravenhearst SDX SP 21 Day Blood Moons Weather Disabled" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -94,14 +94,14 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
 			</Downloads>
 		    <Description>
-			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days.
+			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days and Disabled Weather.
 			</Description>
 		</Server>
 		
 		<!-- SP Main Version Streamer Clean -->
 
 		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -118,14 +118,14 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/sounds.xml</Download>
 			</Downloads>
 		    <Description>
-			Streamer Friendly Version of Ravenhearst 7 Days Blood Moons with removed nude zombies and removed profanity.
+			Streamer Friendly Version of Ravenhearst 7 Days Blood Moons with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.
 			</Description>
 		</Server>
 		
 		<!-- SP Main Version Streamer Clean 21 Day Blood Moons -->
 
 		 	<Server Name="Ravenhearst SDX Streamer Edition 21 Day Blood Moons" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -144,7 +144,7 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/sounds.xml</Download>
 			</Downloads>
 		    <Description>
-			Streamer Friendly Version of Ravenhearst 21 Days Blood Moons with removed nude zombies and removed profanity.
+			Streamer Friendly Version of Ravenhearst 21 Days Blood Moons with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.
 			</Description>
 		</Server>
 		
@@ -156,7 +156,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -184,7 +184,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -199,18 +199,18 @@
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Testing Copy for the SDX version of Ravenhearst meant for  16.4. Still tweaking and fixing so use at your own risk. Release Version for Stable 16.4 will be coming soon! These files are not intended for public use.
+			Testing Copy for the SDX version of Ravenhearst. Still tweaking and fixing so use at your own risk. This is not intended for public play as it is a test branch!
 			</Description>
 		</Server>
 		
 			<!-- Main Server -->
 
 
-		<Server Name="Ravenhearst SDX Private Server Player Download" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst SDX Whitelist Server Member Download" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v1.09</Version>
+			<Version>v2.0</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -229,7 +229,7 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
 			</Downloads>
 		    <Description>
-			Files for players of the DONA server ONLY. These are for our white listed players and not intended for public use.
+			Files for players of the DONA server only. These files are not for the public they are for members of the DONA server.
 			</Description>
 		</Server>	
 
