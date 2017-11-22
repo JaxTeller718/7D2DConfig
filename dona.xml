@@ -42,6 +42,8 @@
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/xui.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
 			Single Player version with 7 Day Blood Moons and Weather Disabled.
@@ -116,6 +118,8 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entityclasses.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entitygroups.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/sounds.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/xui.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
 			Streamer Friendly Version of Ravenhearst 7 Days Blood Moons with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.
@@ -227,6 +231,8 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/xui.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
 			Files for players of the DONA server only. These files are not for the public they are for members of the DONA server.
