@@ -6,7 +6,7 @@
 		<!-- Main Version -->
 
 		 	<Server Name="Ravenhearst SDX Single Player" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -28,7 +28,7 @@
 		<!-- Main Version No Weather -->
 
 		 	<Server Name="Ravenhearst SDX SP Weather Disabled" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -42,7 +42,6 @@
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/xui.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
@@ -53,7 +52,7 @@
 		<!-- SP 21 Days Version -->
 
 		 	<Server Name="Ravenhearst SDX SP 21 Day Blood Moons" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -78,7 +77,7 @@
 		<!-- SP 21 Days Weather Disabled Version -->
 
 		 	<Server Name="Ravenhearst SDX SP 21 Day Blood Moons Weather Disabled" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -94,6 +93,7 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
 			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days and Disabled Weather.
@@ -103,7 +103,7 @@
 		<!-- SP Main Version Streamer Clean -->
 
 		 	<Server Name="Ravenhearst SDX Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -118,8 +118,6 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entityclasses.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entitygroups.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/sounds.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/xui.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
 			Streamer Friendly Version of Ravenhearst 7 Days Blood Moons with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.
@@ -129,7 +127,7 @@
 		<!-- SP Main Version Streamer Clean 21 Day Blood Moons -->
 
 		 	<Server Name="Ravenhearst SDX Streamer Edition 21 Day Blood Moons" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -160,7 +158,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -188,7 +186,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -201,6 +199,11 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/TestBranch/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
 			Testing Copy for the SDX version of Ravenhearst. Still tweaking and fixing so use at your own risk. This is not intended for public play as it is a test branch!
@@ -214,7 +217,7 @@
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v2.03</Version>
+			<Version>v2.04</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -231,7 +234,6 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/xui.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		    <Description>
