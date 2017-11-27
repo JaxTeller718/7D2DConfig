@@ -182,7 +182,7 @@
 		</Server>	 -->
 		
 
-		<Server Name="Test Branch Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst Test Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
@@ -197,13 +197,13 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/TestBranch/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/TestServer/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+<!--				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+ 				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download> -->
 			</Downloads>
 		    <Description>
 			Testing Copy for the SDX version of Ravenhearst. Still tweaking and fixing so use at your own risk. This is not intended for public play as it is a test branch!
