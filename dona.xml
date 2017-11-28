@@ -255,7 +255,7 @@
 			<!-- Main Server -->
 
 
-		<Server Name="Dawn of the New Apocalypse Whitelist Download" Logo="http://i.imgur.com/ZBRazCy.jpg">
+<!-- 		<Server Name="Dawn of the New Apocalypse Whitelist Download" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -272,16 +272,12 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/DONA/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-<!-- 				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download> -->
+
 			</Downloads>
 		    <Description>
 			Files for players of the DONA server only. These files are not for the public they are for members of the DONA server.
 			</Description>
-		</Server>	
+		</Server>	 -->
 
 
 	</ServerGroup>
