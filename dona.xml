@@ -11,6 +11,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/sphereii/RavenhearstMainVersion.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -56,6 +57,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/sphereii/RavenhearstMainVersion.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -108,6 +110,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/sphereii/RavenhearstMainVersion.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -133,6 +136,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/sphereii/RavenhearstMainVersion.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
