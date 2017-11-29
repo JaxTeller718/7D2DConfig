@@ -255,11 +255,11 @@
 			<!-- Main Server -->
 
 
-<!-- 		<Server Name="Dawn of the New Apocalypse Whitelist Download" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Dawn of the New Apocalypse Whitelist Download" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v2.04</Version>
+			<Version>v2.05</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -277,7 +277,7 @@
 		    <Description>
 			Files for players of the DONA server only. These files are not for the public they are for members of the DONA server.
 			</Description>
-		</Server>	 -->
+		</Server>	 
 
 
 	</ServerGroup>
