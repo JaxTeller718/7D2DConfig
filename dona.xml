@@ -6,7 +6,7 @@
 		<!-- Main Version -->
 
 		 	<Server Name="7 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -29,7 +29,7 @@
 		<!-- Main Version No Weather -->
 
 <!-- 		 	<Server Name="7 Day Horde Weather Disabled Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -52,7 +52,7 @@
 		<!-- SP 21 Days Version -->
 
 		 	<Server Name="21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -74,7 +74,7 @@
 		<!-- SP 21 Days Weather Disabled Version -->
 
 <!-- 		 	<Server Name="21 Day Horde Weather Disabled Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -101,7 +101,7 @@
 		<!-- SP Main Version Streamer Clean -->
 
 		 	<Server Name="7 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -127,7 +127,7 @@
 		<!-- SP Main Version Streamer Clean 21 Day Blood Moons -->
 
 		 	<Server Name="21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -153,7 +153,7 @@
 		<!-- Dedi 21 Days Version -->
 
 		 	<Server Name="Dedi 7 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -170,7 +170,7 @@
 		<!-- Dedi 21 Days Version -->
 
 		 	<Server Name="Dedi 21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
@@ -190,7 +190,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -218,7 +218,7 @@
 			<Address>45.126.208.66</Address>
 			<Port>22715</Port>
 			<Type>Private</Type>
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -249,7 +249,7 @@
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v2.07</Version>
+			<Version>v2.08</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
