@@ -214,11 +214,11 @@
 		</Server>	 -->
 		
 
-		<Server Name="Ravenhearst Test Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>45.126.208.66</Address>
-			<Port>22715</Port>
+		<Server Name="Private Ravenhearst 3.0 Test Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>172.96.164.234</Address>
+			<Port>22415</Port>
 			<Type>Private</Type>
-			<Version>v2.11.03</Version>
+			<Version>v3.0a</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -238,7 +238,7 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/XUi/windows.xml</Download> -->
 			</Downloads>
 		    <Description>
-			Testing Copy for the SDX version of Ravenhearst. Still tweaking and fixing so use at your own risk. This is not intended for public play as it is a test branch!
+			Private testing for 3.0. This will be wiped and updated several times a day and is NOT safe for the public so dont expect it to work. Still tweaking and fixing so use at your own risk. This is not intended for public play as it is a test branch!
 			</Description>
 		</Server>
 		
