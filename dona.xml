@@ -141,11 +141,11 @@
 			<!-- Test Server -->
 
 
-		<Server Name="Private Ravenhearst 3.0 Test Server Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst 3.0 Test Server Only Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>172.96.164.234</Address>
 			<Port>22415</Port>
 			<Type>Private</Type>
-			<Version>v3.0d</Version>
+			<Version>v3.0h</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -156,11 +156,11 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/TestServer/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/ModTesting/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Private testing for 3.0. This will be wiped and updated several times a day and is NOT safe for the public so dont expect it to work. Still tweaking and fixing so use at your own risk. This is not intended for public play as it is a test branch!
+			This is for Test Server Use ONLY. These files are INCOMPLETE and you will not be able to play a SP game with this. Test server will be wiped and updated several times a week and is NOT released for public use. Anyone interested in helping test should contact myself, shortypants1976 or sinder on Discord to request access to our server.
 			</Description>
 		</Server>
 		
