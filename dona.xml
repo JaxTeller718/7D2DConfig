@@ -141,7 +141,7 @@
 			<!-- Test Server -->
 
 
-		<Server Name="Ravenhearst 3.0 Test Server Only Files" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst 3.0 Test Server Only Files" Logo="http://i.imgur.com/ZBRazCy.jpg">https://github.com/JaxTeller718/Private/archive/master.zip
 			<Address>172.96.164.234</Address>
 			<Port>22415</Port>
 			<Type>Private</Type>
@@ -191,6 +191,30 @@
 			</Description>
 		</Server>	 
 
+			<!-- Test Server -->
 
+
+		<Server Name="Test Server Backup" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.162</Address>
+			<Port>26347</Port>
+			<Type>Private</Type>
+			<Version>v3.0i</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Private/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		    <Description>
+			Backup for Test Server used for editing.
+			</Description>
+		</Server>
 	</ServerGroup>
 </Servers>
