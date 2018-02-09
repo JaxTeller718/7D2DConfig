@@ -141,7 +141,7 @@
 			<!-- Test Server -->
 
 
-		<Server Name="Ravenhearst 3.0 Test Server Only Files" Logo="http://i.imgur.com/ZBRazCy.jpg">https://github.com/JaxTeller718/Private/archive/master.zip
+	<!--	<Server Name="Ravenhearst 3.0 Test Server Only Files" Logo="http://i.imgur.com/ZBRazCy.jpg">https://github.com/JaxTeller718/Private/archive/master.zip
 			<Address>172.96.164.234</Address>
 			<Port>22415</Port>
 			<Type>Private</Type>
@@ -162,7 +162,7 @@
 		    <Description>
 			This is for Test Server Use ONLY. These files are INCOMPLETE and you will not be able to play a SP game with this. Test server will be wiped and updated several times a week and is NOT released for public use. Anyone interested in helping test should contact myself, shortypants1976 or sinder on Discord to request access to our server.
 			</Description>
-		</Server>
+		</Server>  -->
 		
 			<!-- Main Server -->
 
