@@ -144,8 +144,8 @@
 
 
 		<Server Name="Dev Branch" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>206.221.189.2</Address>
-			<Port>12291</Port>
+			<Address>144.48.106.162</Address>
+			<Port>26347</Port>
 			<Type>Private</Type>
 			<Version>v3.0v01</Version>
 			<EAC>Disabled</EAC>
@@ -166,5 +166,33 @@
 			Dev Branch Incomplete DL.
 			</Description>
 		</Server>
+		
+			<!-- Test Server -->
+
+
+		<Server Name="Test Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>206.221.189.2</Address>
+			<Port>12291</Port>
+			<Type>Private</Type>
+			<Version>v3.0v01</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/Ravenhearst30/TestServer/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Test Install for Testers
+			</Description>
+		</Server>
+		
 	</ServerGroup>
 </Servers>
