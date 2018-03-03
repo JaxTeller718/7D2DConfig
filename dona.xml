@@ -194,5 +194,32 @@
 			</Description>
 		</Server>
 		
+		
+			<!-- Main Server -->
+
+
+		<Server Name="xyx" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
+			<Type>Whitelist</Type>
+			<Version>v2.2</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/Ravenhearst30/LiveServerTestRun/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Files for players of the DONA server only. These files are not for the public they are for members of the DONA server.
+			</Description>
+		</Server>			
 	</ServerGroup>
 </Servers>
