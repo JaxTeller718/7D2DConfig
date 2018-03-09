@@ -143,11 +143,11 @@
 			<!-- Dev Branch -->
 
 
-		<Server Name="Dev Branch" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Dev Branch 3.0v03" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.162</Address>
 			<Port>26347</Port>
 			<Type>Private</Type>
-			<Version>v3.0v01</Version>
+			<Version>v3.0v03</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -170,11 +170,11 @@
 			<!-- Test Server -->
 
 
-		<Server Name="Test Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Test Server 3.0v03" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>206.221.189.2</Address>
 			<Port>12291</Port>
 			<Type>Private</Type>
-			<Version>v3.0v01</Version>
+			<Version>v3.0v03</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -198,11 +198,11 @@
 			<!-- Main Server -->
 
 
-		<Server Name="DONA Ravenhearst 3.0 Whitelist Test" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="DONA Ravenhearst 3.0v03 Whitelist Test" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>173.234.30.170</Address>
 			<Port>18314</Port>
 			<Type>Whitelist</Type>
-			<Version>v3.0v01</Version>
+			<Version>v3.0v03</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
