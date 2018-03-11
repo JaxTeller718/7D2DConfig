@@ -144,8 +144,8 @@
 
 
 		<Server Name="Dev Branch 3.0v03" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.162</Address>
-			<Port>26347</Port>
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
 			<Type>Private</Type>
 			<Version>v3.0v03</Version>
 			<EAC>Disabled</EAC>
