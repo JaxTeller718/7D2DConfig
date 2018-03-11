@@ -170,7 +170,7 @@
 			<!-- Test Server -->
 
 
-		<Server Name="Test Server 3.0v03" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Test and Prefab Server 3.0v03" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>206.221.189.2</Address>
 			<Port>12291</Port>
 			<Type>Private</Type>
@@ -190,7 +190,7 @@
 
 			</Downloads>
 		    <Description>
-			Test Install for Testers
+			Test Install for Mod Team for Prefabbing
 			</Description>
 		</Server>
 		
