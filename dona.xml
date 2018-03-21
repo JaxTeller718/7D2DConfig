@@ -159,7 +159,7 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/Ravenhearst30/LiveServerTestRun/archive/master.zip</Download>
+				<Download>https://github.com/Ravenhearst30/DeveloperBranch/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 
 			</Downloads>
@@ -217,7 +217,7 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/Ravenhearst30/DevBranch/archive/master.zip</Download>
+				<Download>https://github.com/Ravenhearst30/LiveServerTestRun/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 
 			</Downloads>
