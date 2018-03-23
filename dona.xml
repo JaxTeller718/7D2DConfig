@@ -173,11 +173,11 @@
 			<!-- Test Server -->
 
 
-		<Server Name="Test and Prefab Server 3.0final" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Ravenhearst Test and Prefab Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>206.221.189.2</Address>
 			<Port>12291</Port>
 			<Type>Private</Type>
-			<Version>v3.0final</Version>
+			<Version>v3.0</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -193,7 +193,7 @@
 
 			</Downloads>
 		    <Description>
-			Test Install for Mod Team for Prefabbing
+			Test Install for Mod Team for Prefabbing and Testing
 			</Description>
 		</Server>
 		
