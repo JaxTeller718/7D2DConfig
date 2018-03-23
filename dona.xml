@@ -144,9 +144,9 @@
 
 
 
-		<Server Name="Dev Branch 3.0final" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>173.234.30.170</Address>
-			<Port>18314</Port>
+		<Server Name="Ravenhearst Dev Branch" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>144.48.106.162</Address>
+			<Port>26347</Port>
 			<Type>Private</Type>
 			<Version>v3.0final</Version>
 			<EAC>Disabled</EAC>
