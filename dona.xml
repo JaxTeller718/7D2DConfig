@@ -1,11 +1,11 @@
 <?xml version='1.0'?>
 <Servers >
 	<!-- Server Group will encompass a single group running multiple servers -->
-	<ServerGroup Name="Ravenhearst" Logo="https://raw.githubusercontent.com/Official7D2DForumFanatics/7D2DFFLauncher/master/7dtdNewLogo.jpg">
+	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/p963w6f.png">
 
 		<!-- Main Version -->
 
-		 	<Server Name="7 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="7 Day Horde Edition" Logo="https://i.imgur.com/p963w6f.png">
 			<Version>v2.2</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -25,7 +25,7 @@
 		
 		<!-- SP 21 Days Version -->
 
-		 	<Server Name="21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="21 Day Horde Edition" Logo="https://i.imgur.com/p963w6f.png">
 			<Version>v2.2</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
