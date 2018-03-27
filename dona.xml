@@ -29,7 +29,7 @@
 		
 		<!-- 3.0 21 Days Version -->
 
-		 	<Server Name="RH 3.0  21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+		 	<Server Name="RH 30 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v3.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -37,12 +37,15 @@
 			<DownloadMode>Clone</DownloadMode>
 			<AltDownload>https://gitlab.com/sphereii/21DayVersionRavenhearst.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/21DayVersion/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			3.0 Release of Ravenhearst includes BOTH Single Player and Multiplayer Files needed for Servers and Dedis with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			3.0 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 		
@@ -50,7 +53,7 @@
 		
 		<!-- 3.0 Main Version Streamer Clean -->
 
-		 	<Server Name="RH 3.0  7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+		 	<Server Name="RH 30 7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v3.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -58,6 +61,9 @@
 			<DownloadMode>Clone</DownloadMode>
 			<AltDownload>https://gitlab.com/sphereii/RavenhearstMainVersion.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/MainVersion/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -67,13 +73,13 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/quests.xml</Download>
 			</Downloads>
 		    <Description>
-			3.0 Release of Ravenhearst includes BOTH Single Player and Multiplayer Files needed for Servers and Dedis with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			3.0 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 		
 		<!-- 3.0 Main Version Streamer Clean 21 Day Blood Moons -->
 
-		 	<Server Name="RH 3.0  21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		 	<Server Name="RH 30 21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Version>v3.0</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -81,6 +87,9 @@
 			<DownloadMode>Clone</DownloadMode>
 			<AltDownload>https://gitlab.com/sphereii/21DayVersionRavenhearst.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/21DayVersion/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
@@ -90,7 +99,7 @@
 				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/quests.xml</Download>
 			</Downloads>
 		    <Description>
-			3.0 Release of Ravenhearst includes BOTH Single Player and Multiplayer Files needed for Servers and Dedis with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			3.0 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>	
 		
@@ -104,6 +113,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/Ravenhearst22/7DayVersionRH22/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -124,6 +136,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/Ravenhearst22/21DayVersionRH22/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -144,6 +159,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/Ravenhearst22/ST7DayVersionRH22/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -162,6 +180,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/Ravenhearst22/ST21DayVersionRH22/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
@@ -187,6 +208,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/Ravenhearst30/DeveloperBranch/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -212,6 +236,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/Ravenhearst30/TestServer/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -238,6 +265,9 @@
 			<DownloadMode>Clone</DownloadMode>
 			<AltDownload>https://gitlab.com/sphereii/21DayVersionRavenhearst.git</AltDownload>
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/DONA/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
