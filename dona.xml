@@ -198,8 +198,8 @@
 
 
 		<Server Name="Ravenhearst Dev Branch" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.162</Address>
-			<Port>26347</Port>
+			<Address>144.48.106.50</Address>
+			<Port>12001</Port>
 			<Type>Private</Type>
 			<Version>v3.0</Version>
 			<EAC>Disabled</EAC>
@@ -254,8 +254,8 @@
 
 
 		<Server Name="DONA Ravenhearst Official Whitelist Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.50</Address>
-			<Port>12001</Port>
+			<Address>144.48.106.162</Address>
+			<Port>26347</Port>
 			<Type>Whitelist</Type>
 			<Version>v3.0</Version>
 			<EAC>Disabled</EAC>
