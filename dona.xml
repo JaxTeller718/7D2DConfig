@@ -253,7 +253,7 @@
 			<!-- Main Server -->
 
 
-		<Server Name="DONA Ravenhearst Official Whitelist Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="DONA Ravenhearst Official Whitelist Server Test Weekend" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.162</Address>
 			<Port>26347</Port>
 			<Type>Whitelist</Type>
@@ -279,4 +279,3 @@
 		</Server>		
 	</ServerGroup>
 </Servers>
-
