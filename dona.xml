@@ -12,6 +12,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/7D2DModLauncher-Mirror/Ravenhearst_3_1_7DayEdition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -35,6 +36,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/7D2DModLauncher-Mirror/Ravenhearst_3_1_21DayEdition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -58,6 +60,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/7D2DModLauncher-Mirror/Ravenhearst_3_1_7DayEdition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -83,6 +86,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/7D2DModLauncher-Mirror/Ravenhearst_3_1_21DayEdition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
@@ -209,11 +213,11 @@
 
 
 
-		<Server Name="Ravenhearst Dev Branch" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="Jax Developer Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Private</Type>
-			<Version>v3.0</Version>
+			<Version>v3.1</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
