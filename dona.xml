@@ -3,6 +3,104 @@
 	<!-- Server Group will encompass a single group running multiple servers -->
 	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/P1IUjSg.png">
 
+	
+			<!-- 3.1 Main Version -->
+
+		 	<Server Name="RH 31 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v3.1</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_7DayEdition/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		    <Description>
+			3.1 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			</Description>
+		</Server>
+
+
+		
+		<!-- 3.1 21 Days Version -->
+
+		 	<Server Name="RH 31 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v3.1</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_21DayEdition/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		    <Description>
+			3.1 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			</Description>
+		</Server>
+		
+
+		
+		<!-- 3.1 Main Version Streamer Clean -->
+
+		 	<Server Name="RH 31 7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v3.1</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_7DayEdition/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/entitygroups.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/sounds.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/quests.xml</Download>
+			</Downloads>
+		    <Description>
+			3.1 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			</Description>
+		</Server>
+		
+		<!-- 3.1 Main Version Streamer Clean 21 Day Blood Moons -->
+
+		 	<Server Name="RH 31 21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Version>v3.1</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_21DayEdition/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/entitygroups.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/sounds.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion31/master/Data/Config/quests.xml</Download>
+			</Downloads>
+		    <Description>
+			3.1 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			</Description>
+		</Server>	
+		
+		
 		<!-- 3.0 Main Version -->
 
 		 	<Server Name="RH 30 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
@@ -104,93 +202,7 @@
 		</Server>	
 		
 
-		<!-- 2.2 Main Version -->
 
-		 	<Server Name="7 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.2</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/Ravenhearst22/7DayVersionRH22/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			The Ravenhearst Mod v2.2 7 Day Horde Edition. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  2.2 Version that includes all files needed for both Single Player and Multiplayer/Dedicated Versions
-			</Description>
-		</Server>
-
-
-		
-		<!-- 2.2 21 Days Version -->
-
-		 	<Server Name="21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.2</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/Ravenhearst22/21DayVersionRH22/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			The Ravenhearst Mod v2.2 21 Day Horde Edition.  2.2 Version that includes all files needed for both Single Player and Multiplayer/Dedicated Versions
-			</Description>
-		</Server>
-		
-
-		
-		<!-- 2.2 Main Version Streamer Clean -->
-
-		 	<Server Name="7 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.2</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/Ravenhearst22/ST7DayVersionRH22/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			Streamer Friendly Version of The Ravenhearst Mod v2.2 7 Day Horde Edition with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. 2.2 Version that includes all files needed for both Single Player and Multiplayer/Dedicated Versions
-			</Description>
-		</Server>
-		
-		<!-- 2.2 Main Version Streamer Clean 21 Day Blood Moons -->
-
-		 	<Server Name="21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v2.2</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/Ravenhearst22/ST21DayVersionRH22/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
-			</Downloads>
-		    <Description>
-			Streamer Friendly Version of The Ravenhearst Mod v2.2 7 Day Horde Edition with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. 2.2 Version that includes all files needed for both Single Player and Multiplayer/Dedicated Versions
-			</Description>
-		</Server>		
 		 
 
 			<!-- Dev Branch -->
@@ -253,11 +265,11 @@
 			<!-- Main Server -->
 
 
-		<Server Name="DONA Ravenhearst Official Whitelist Server Test Weekend" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="DONA Ravenhearst Official Whitelist Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.162</Address>
 			<Port>26347</Port>
 			<Type>Whitelist</Type>
-			<Version>v3.0</Version>
+			<Version>v3.1</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -274,8 +286,9 @@
 
 			</Downloads>
 		    <Description>
-			DONA Ravenhearst 3.0 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
+			DONA Ravenhearst 3.1 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
 			</Description>
 		</Server>		
 	</ServerGroup>
 </Servers>
+
