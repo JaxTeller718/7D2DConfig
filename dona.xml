@@ -7,7 +7,7 @@
 			<!-- 3.1 Main Version -->
 
 		 	<Server Name="RH 31 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v3.1</Version>
+			<Version>v3.1.1</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -31,7 +31,7 @@
 		<!-- 3.1 21 Days Version -->
 
 		 	<Server Name="RH 31 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v3.1</Version>
+			<Version>v3.1.1</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -55,7 +55,7 @@
 		<!-- 3.1 Main Version Streamer Clean -->
 
 		 	<Server Name="RH 31 7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v3.1</Version>
+			<Version>v3.1.1</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -81,7 +81,7 @@
 		<!-- 3.1 Main Version Streamer Clean 21 Day Blood Moons -->
 
 		 	<Server Name="RH 31 21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v3.1</Version>
+			<Version>v3.1.1</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -217,7 +217,7 @@
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Private</Type>
-			<Version>v3.1</Version>
+			<Version>v3.1.1</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -273,7 +273,7 @@
 			<Address>144.48.106.162</Address>
 			<Port>26347</Port>
 			<Type>Whitelist</Type>
-			<Version>v3.1</Version>
+			<Version>v3.1.1</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
