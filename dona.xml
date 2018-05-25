@@ -167,8 +167,8 @@
 
 
 		<Server Name="DONA Ravenhearst Official Whitelist Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.162</Address>
-			<Port>26347</Port>
+			<Address>45.35.207.38</Address>
+			<Port>26980</Port>
 			<Type>Whitelist</Type>
 			<Version>v3.1.5</Version>
 			<EAC>Disabled</EAC>
@@ -176,8 +176,7 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/sphereii/21DayVersionRavenhearst.git</AltDownload>
-			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<ReleaseNotes>http://45.35.207.38:8162/static/index.html/</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
