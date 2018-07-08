@@ -12,13 +12,13 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/7_Days_Current.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_7_Day_Edition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_7_Day/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_7_Day_Edition/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
@@ -36,13 +36,13 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/21_Days_Current.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_21_Day_Edition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_21_Day/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_21_Day_Edition/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
@@ -60,13 +60,13 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/7_Days_Current.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_7_Day_Edition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_7_Day/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_7_Day_Edition/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entityclasses.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entitygroups.xml</Download>
@@ -86,13 +86,13 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/21_Days_Current.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_21_Day_Edition.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_21_Day/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_21_Day_Edition/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
 				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entityclasses.xml</Download>
 				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entitygroups.xml</Download>
@@ -103,64 +103,7 @@
 			3.1.5 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>	
-		
-		 
-
-			<!-- Dev Branch -->
-
-
-
-		<Server Name="Jax Developer Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>144.48.106.50</Address>
-			<Port>12001</Port>
-			<Type>Private</Type>
-			<Version>v3.1.2</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/Ravenhearst30/DeveloperBranch/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			Dev Branch Incomplete DL.
-			</Description>
-		</Server>			
-		
-		
-		
-			<!-- Test Server -->
-
-
-		<Server Name="Ravenhearst Test and Prefab Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>206.221.189.2</Address>
-			<Port>12291</Port>
-			<Type>Private</Type>
-			<Version>v3.0</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/Ravenhearst30/TestServer/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			Test Install for Mod Team for Prefabbing and Testing
-			</Description>
-		</Server>
-		
+	
 
 
 			<!-- Main Server -->
