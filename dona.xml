@@ -198,7 +198,32 @@
 		</Server>	
 	
 
+			<!-- Private Server -->
 
+
+		<Server Name="Jax Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>45.35.207.22</Address>
+			<Port>26910</Port>
+			<Type>Whitelist</Type>
+			<Version>v4</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>http://45.35.207.38:8162/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/Jax_Private_Server/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
+			</Downloads>
+		    <Description>
+			Private Test Server for Me. Possibly broken. Not for public
+			</Description>
+		</Server>	
 			<!-- Main Server -->
 
 
