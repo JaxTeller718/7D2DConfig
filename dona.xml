@@ -7,7 +7,7 @@
 			<!-- 4.0 Main Version -->
 
 		 	<Server Name="RH 4 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.0.2</Version>
+			<Version>v4.0.3</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -31,7 +31,7 @@
 		<!-- 4.0 21 Days Version -->
 
 		 	<Server Name="RH 4 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.0.2</Version>
+			<Version>v4.0.3</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -55,7 +55,7 @@
 		<!-- 4.0 Main Version Streamer Clean -->
 
 		 	<Server Name="RH 4 7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.0.2</Version>
+			<Version>v4.0.3</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -77,7 +77,7 @@
 		<!-- 4.0 Main Version Streamer Clean 21 Day Blood Moons -->
 
 		 	<Server Name="RH 4 21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v4.0.2</Version>
+			<Version>v4.0.3</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -231,7 +231,7 @@
 			<Address>45.35.207.38</Address>
 			<Port>26980</Port>
 			<Type>Whitelist</Type>
-			<Version>v4.0.2</Version>
+			<Version>v4.0.3</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
