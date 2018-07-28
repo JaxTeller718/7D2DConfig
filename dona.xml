@@ -4,7 +4,7 @@
 	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/P1IUjSg.png">
 
 	
-			<!-- 4.0 Main Version -->
+	<!-- 4.0 Main Version -->
 
 		 	<Server Name="RH 4 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v4.0.3</Version>
@@ -12,17 +12,17 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/RH_Current_7_Day.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/RH_Previous_7_Day.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_7_Day/archive/master.zip</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_Previous_7_Day/-/archive/master/RH_Previous_7_Day-master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Version 4 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			Version 4.0 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 
@@ -36,17 +36,17 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/RH_Current_21_Day.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/RH_Previous_21_Day.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_21_Day/archive/master.zip</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_Previous_21_Day/-/archive/master/RH_Previous_21_Day-master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Version 4 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			Version 4.0 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 		
@@ -60,17 +60,17 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/RH_Current_7_Day_Streamer.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/RH_Previous_7_Day_Streamer.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_7_Day_Streamer/archive/master.zip</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_Previous_7_Day_Streamer/-/archive/master/RH_Previous_7_Day_Streamer-master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Version 4 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			Version 4.0 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 		
@@ -82,148 +82,21 @@
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/RH_Current_21_Day_Streamer.git</AltDownload>
+			<AltDownload>https://gitlab.com/jaxteller718/RH_Previous_21_Day_Streamer.git</AltDownload>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://github.com/JaxTeller718/RH_Current_21_Day_Streamer/archive/master.zip</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_Previous_21_Day_Streamer/-/archive/master/RH_Previous_21_Day_Streamer-master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
 			</Downloads>
 		    <Description>
-			Version 4 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			Version 4.0 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>	
 		
 	
-			<!-- 3.1 Main Version -->
-
-		 	<Server Name="RH 31 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v3.1.5</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_3_1_7DayEdition.git</AltDownload>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_7DayEdition/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			3.1.5 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>
-
-
-		
-		<!-- 3.1 21 Days Version -->
-
-		 	<Server Name="RH 31 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v3.1.5</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_3_1_21DayEdition.git</AltDownload>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_21DayEdition/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			3.1.5 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>
-		
-
-		
-		<!-- 3.1 Main Version Streamer Clean -->
-
-		 	<Server Name="RH 31 7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v3.1.5</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_3_1_7DayEdition.git</AltDownload>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_7DayEdition/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entityclasses.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entitygroups.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/sounds.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/quests.xml</Download>
-			</Downloads>
-		    <Description>
-			3.1.5 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>
-		
-		<!-- 3.1 Main Version Streamer Clean 21 Day Blood Moons -->
-
-		 	<Server Name="RH 31 21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v3.1.5</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<AltDownload>https://gitlab.com/jaxteller718/Ravenhearst_3_1_21DayEdition.git</AltDownload>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_21DayEdition/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entityclasses.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/entitygroups.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/sounds.xml</Download>
-				<Download>https://raw.githubusercontent.com/JaxTeller718/RH_Clean_Version_Files/master/Data/Config/quests.xml</Download>
-			</Downloads>
-		    <Description>
-			3.1.5 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>	
-	
-
-			<!-- Private Server -->
-
-
-		<Server Name="Jax Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Address>45.35.207.22</Address>
-			<Port>26910</Port>
-			<Type>Whitelist</Type>
-			<Version>v4</Version>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>http://45.35.207.38:8162/static/index.html/</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://github.com/JaxTeller718/Jax_Private_Server/archive/master.zip</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-
-			</Downloads>
-		    <Description>
-			Private Test Server for Me. Possibly broken. Not for public
-			</Description>
-		</Server>	
 			<!-- Main Server -->
 
 
