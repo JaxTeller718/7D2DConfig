@@ -249,6 +249,28 @@
 		    <Description>
 			DONA Ravenhearst 4 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
 			</Description>
+		</Server>	
+
+	
+			<!-- 4.0 Main Version -->
+
+		 	<Server Name="RH 4 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v4.0.3</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/RH_Previous_7_Day.git</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		    <Description>
+			Version 4 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			</Description>
 		</Server>		
 	</ServerGroup>
 </Servers>
