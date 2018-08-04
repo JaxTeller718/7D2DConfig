@@ -4,10 +4,10 @@
 	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/P1IUjSg.png">
 
 	
-			<!-- 4.1 Main Version -->
+			<!-- 4.2 Main Version -->
 
 		 	<Server Name="RH 41 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.1</Version>
+			<Version>v4.2</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -21,16 +21,16 @@
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Version 4.1 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			Version 4.2 Release of Ravenhearst for Single Player. It comes with a 72 slot Backpack and vanilla settings like weather enabled, 7 Day Blood Moons and profanity and nude zombies.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 
 
 		
-		<!-- 4.1 21 Days Version -->
+		<!-- 4.2 21 Days Version -->
 
 		 	<Server Name="RH 41 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.1</Version>
+			<Version>v4.2</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
 			<WebSite>https://ravenhearst.enjin.com/</WebSite>
@@ -44,7 +44,7 @@
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
-			Version 4.1 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
+			Version 4.2 Release of Ravenhearst for Single Player with Blood Moon spawning every 21 days.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
 			</Description>
 		</Server>
 
@@ -145,7 +145,7 @@
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v4.1</Version>
+			<Version>v4.2</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -161,7 +161,7 @@
 
 			</Downloads>
 		    <Description>
-			DONA Ravenhearst 4.1 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
+			DONA Ravenhearst 4.2 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
 			</Description>
 		</Server>	
 		
