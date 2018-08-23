@@ -1,12 +1,12 @@
 <?xml version='1.0'?>
 <Servers >
 	<!-- Server Group will encompass a single group running multiple servers -->
-	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/P1IUjSg.png">
+	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/o9XnRxS.png">
 
 	
 			<!-- 4.2 Main Version -->
 
-		 	<Server Name="RH 41 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+		 	<Server Name="Ravenhearst 4.2 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v4.2</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -17,7 +17,7 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/7_Day_Current.git</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_42_Archived_7_Days.git</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
@@ -29,7 +29,7 @@
 		
 		<!-- 4.2 21 Days Version -->
 
-		 	<Server Name="RH 41 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+		 	<Server Name="Ravenhearst 4.2 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v4.2</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -40,7 +40,7 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/21_Day_Current.git</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_42_Archived_21_Days.git</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
@@ -51,7 +51,7 @@
 
 	<!-- 4.0 Main Version -->
 
-		 	<Server Name="RH 4 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+		 	<Server Name="Ravenhearst 4.0.3 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v4.0.3</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -62,7 +62,7 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/RH_Previous_7_Day.git</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_41_Archived_7_Days.git</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
@@ -74,7 +74,7 @@
 		
 		<!-- 4.0 21 Days Version -->
 
-		 	<Server Name="RH 4 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
+		 	<Server Name="Ravenhearst 4.0.3 21 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
 			<Version>v4.0.3</Version>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -85,7 +85,7 @@
 				<Exclude>7DaysToDieServer_Data</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/RH_Previous_21_Day.git</Download>
+				<Download>https://gitlab.com/jaxteller718/RH_41_Archived_21_Days.git</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		    <Description>
@@ -93,75 +93,6 @@
 			</Description>
 		</Server>
 		
-
-		
-		<!-- 4.0 Main Version Streamer Clean -->
-
-		 	<Server Name="RH 4 7 Day Horde Streamer Edition" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.0.3</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/RH_Previous_7_Day_Streamer.git</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			Version 4.0 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds.  For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>
-		
-		<!-- 4.0 Main Version Streamer Clean 21 Day Blood Moons -->
-
-		 	<Server Name="RH 4 21 Day Horde Streamer Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
-			<Version>v4.0.3</Version>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/RH_Previous_21_Day_Streamer.git</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
-			</Downloads>
-		    <Description>
-			Version 4.0 Release of Ravenhearst for Single Player with removed nude zombies and removed profanity as well as no copyright Night Terror sounds. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>	
-		
-		<!-- 4.2 Jax Playthrough -->
-
-		 	<Server Name="Jax Playtest" Logo="https://i.imgur.com/P1IUjSg.png">
-			<Version>v4.2</Version>
-			<Address>144.48.104.66</Address>
-			<Port>11840</Port>
-			<Type>Whitelist</Type>
-			<EAC>Disabled</EAC>
-			<Admin>JaxTeller718</Admin>
-			<AdminContact>jaxteller718@gmail.com</AdminContact>
-			<WebSite>https://ravenhearst.enjin.com/</WebSite>
-			<DownloadMode>Clone</DownloadMode>
-			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
-			<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
-			</Excludes>
-			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/Jax_and_Shorty_Private_Server.git</Download>
-				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-			</Downloads>
-		    <Description>
-			Version 4.2 Release of Ravenhearst for myself with Blood Moon spawning every 21 days.  This version may be broken at any time and should not be used. For discussions and to submit any bugs please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod  or join our Discord at https://discord.gg/YBHD9f3
-			</Description>
-		</Server>
-
 
 		
 			<!-- Main Server -->
