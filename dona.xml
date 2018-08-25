@@ -4,6 +4,7 @@
 	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/o9XnRxS.png">
 
 	
+<<<<<<< HEAD
 			<!-- 4.3 Normal 7 Day Version -->
 
 		 	<Server Name="Ravenhearst 4.3 Normal 7 Day Edition" Logo="https://i.imgur.com/P1IUjSg.png">
@@ -119,6 +120,11 @@
 
 
 		
+=======
+
+
+
+>>>>>>> 828a4289c8d50fd2c30150a3abdb58cf1f7688c7
 			<!-- 4.2 Main Version -->
 
 		 	<Server Name="Ravenhearst 4.2 7 Day Horde Edition" Logo="https://i.imgur.com/P1IUjSg.png">
@@ -217,7 +223,7 @@
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
-			<Version>v4.2</Version>
+			<Version>v4.3</Version>
 			<EAC>Disabled</EAC>
 			<Admin>JaxTeller718</Admin>
 			<AdminContact>jaxteller718@gmail.com</AdminContact>
@@ -233,7 +239,7 @@
 
 			</Downloads>
 		    <Description>
-			DONA Ravenhearst 4.2 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
+			DONA Ravenhearst 4.3 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. They are for our server members ONLY.
 			</Description>
 		</Server>	
 		
