@@ -16,6 +16,9 @@
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>Extra Files</Exclude>
+				<Exclude>RH Default Mixer</Exclude>
+				<Exclude>RH Denser Cities Mixer</Exclude>
+				<Exclude>RH Lesser Cities Mixer</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://gitlab.com/jaxteller718/7_Day_Current.git</Download>
@@ -39,6 +42,9 @@
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>Extra Files</Exclude>
+				<Exclude>RH Default Mixer</Exclude>
+				<Exclude>RH Denser Cities Mixer</Exclude>
+				<Exclude>RH Lesser Cities Mixer</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://gitlab.com/jaxteller718/14_Day_Current.git</Download>
@@ -62,6 +68,9 @@
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>Extra Files</Exclude>
+				<Exclude>RH Default Mixer</Exclude>
+				<Exclude>RH Denser Cities Mixer</Exclude>
+				<Exclude>RH Lesser Cities Mixer</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://gitlab.com/jaxteller718/21_Day_Current.git</Download>
@@ -86,6 +95,9 @@
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>Extra Files</Exclude>
+				<Exclude>RH Default Mixer</Exclude>
+				<Exclude>RH Denser Cities Mixer</Exclude>
+				<Exclude>RH Lesser Cities Mixer</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://gitlab.com/jaxteller718/14_Day_Casual_Current.git</Download>
@@ -112,6 +124,9 @@
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>Extra Files</Exclude>
+				<Exclude>RH Default Mixer</Exclude>
+				<Exclude>RH Denser Cities Mixer</Exclude>
+				<Exclude>RH Lesser Cities Mixer</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://gitlab.com/jaxteller718/14_Day_Hell_On_Earth_Current.git</Download>
