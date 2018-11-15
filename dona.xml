@@ -4,6 +4,29 @@
 	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/o9XnRxS.png">
 
 	
+			<!-- SOTLD v1.0 7 Day Version -->
+
+		 	<Server Name="Scavengers of the Living Dead" Logo="https://i.imgur.com/Rlcjc2C.png">
+			<Version>v1.0</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/sotld_hd.git</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		    <Description>
+			Based on the Romero Trilogy set in the 1950's, Scavengers is an overhaul that echoes traditional walk ony zombies with headshot kills, linear tool and weapon progression, overhauled sound and models, custom lonely Random Gen for a rural feelling filled with small towns and rest stops as well as challenging scavenger based gameplay. This edition is to be considered concept only and is not in a finished state.
+			</Description>
+		</Server>	
+		
+		
+		
 			<!-- 4.3.1 Normal 7 Day Version -->
 
 		 	<Server Name="Ravenhearst 4.3 Normal 7 Day Edition" Logo="https://i.imgur.com/P1IUjSg.png">
