@@ -256,7 +256,7 @@
 			<!-- Main Server -->
 
 
-		<Server Name="DONA Ravenhearst Official Whitelist Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+		<Server Name="DONA Scavengers of the Living Dead Official Whitelist Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
 			<Address>144.48.106.50</Address>
 			<Port>12001</Port>
 			<Type>Whitelist</Type>
@@ -276,7 +276,7 @@
 
 			</Downloads>
 		    <Description>
-			DONA Ravenhearst 4.3.1 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. This are for our server members ONLY.
+			DONA SOTLD V1.0 Files. These are for players on our whitelist server. You will NOT be able to play SP with these. This are for our server members ONLY.
 			</Description>
 		</Server>	
 		
